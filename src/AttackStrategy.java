@@ -1,3 +1,3 @@
 public interface AttackStrategy{
-    String attack();
+    public String attack();
 }

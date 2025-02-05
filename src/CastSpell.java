@@ -1,5 +1,6 @@
 public class CastSpell implements AttackStrategy{
+    @Override
     public String attack(){
-        return "Wizard casts a spell!";
+        return "casts a spell!";
     }
 }

@@ -1,3 +1,3 @@
 public interface DefenseStrategy{
-    String defend();
+    public String defend();
 }
